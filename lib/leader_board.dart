@@ -5,7 +5,7 @@ import 'package:sqflite/sqflite.dart';
 import 'package:vibration/vibration.dart';
 // ignore: depend_on_referenced_packages
 import 'package:path/path.dart' as p;
-import 'package:mad_individual_assignment/main_activity.dart';
+import 'package:mad_individual_assignment/main.dart';
 
 int ranking = 1;
 

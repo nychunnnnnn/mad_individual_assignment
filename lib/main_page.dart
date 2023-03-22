@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:math';
-import 'package:mad_individual_assignment/main_activity.dart';
+import 'package:mad_individual_assignment/main.dart';
 import 'package:mad_individual_assignment/game_activity.dart';
 import 'package:mad_individual_assignment/leader_board.dart';
 

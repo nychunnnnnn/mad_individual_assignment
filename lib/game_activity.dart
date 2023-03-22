@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'package:mad_individual_assignment/main_activity.dart';
+import 'package:mad_individual_assignment/main.dart';
 import 'package:mad_individual_assignment/leader_board.dart';
 
 class _PlayGame extends State<Play> {
